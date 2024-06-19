@@ -39,3 +39,4 @@ printf "07-Start picking!!!\n"
 #发布模拟点
 #rostopic pub /chatter std_msgs/String "data: '[-0.284, -0.173, 0.930]'" 
 printf "END\n"
+printf"this is my_master branch!"
